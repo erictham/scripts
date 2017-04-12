@@ -1,0 +1,939 @@
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://www.w3.org/2000/01/rdf-schema#label> "Apple Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <https://permid.org/PermIdLink> <https://permid.org/1-8590932301> .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://www.w3.org/2000/01/rdf-schema#label> "IBM Share CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <https://permid.org/PermIdLink> <https://permid.org/1-21475210032> .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://www.w3.org/2000/01/rdf-schema#label> "Starhub CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <https://permid.org/PermIdLink> <https://permid.org/1-8591112257> .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://www.w3.org/2000/01/rdf-schema#label> "M1 CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <https://permid.org/PermIdLink> <https://permid.org/1-8590934012> .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <https://permid.org/PermIdLink> <https://permid.org/1-21475875541> .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon BDR CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <https://permid.org/PermIdLink> <https://permid.org/1-8590928320> .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://www.w3.org/2000/01/rdf-schema#label> "Airasia CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <https://permid.org/PermIdLink> <https://permid.org/1-8589980998> .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://www.w3.org/2000/01/rdf-schema#label> "Airasia X CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <https://permid.org/PermIdLink> <https://permid.org/1-21475345635> .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://www.w3.org/2000/01/rdf-schema#label> "DBS Group Hldg Rights CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <https://permid.org/PermIdLink> <https://permid.org/1-21475300164> .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://www.w3.org/2000/01/rdf-schema#label> "DBS Land Ltd Rights CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <https://permid.org/PermIdLink> <https://permid.org/1-21475199341> .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Holdings ADR CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <https://permid.org/PermIdLink> <https://permid.org/1-8590011771> .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://www.w3.org/2000/01/rdf-schema#label> "1Malaysia Development Bhd Ord Shs (Proposed) CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <https://permid.org/PermIdLink> <https://permid.org/1-21510346979> .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Property Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <https://permid.org/PermIdLink> <https://permid.org/1-21563390399> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/corporateaction> .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://www.w3.org/2000/01/rdf-schema#label> "Cheung Kong Infrastructure Holdings Ord Shs CorporateAction" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <https://permid.org/PermIdLink> <https://permid.org/1-8590937187> .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-17/CorporateActionDate> "2016-10-17" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-24/CorporateActionDate> "2016-10-24" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-25/CorporateActionDate> "2016-10-25" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-26/CorporateActionDate> "2016-10-26" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Dividend" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-27/CorporateActionDate> "2016-10-27" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590932301> <http://account.thomsonreuters.com/2016-10-28/CorporateActionDate> "2016-10-28" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475210032> <http://account.thomsonreuters.com/2016-10-29/CorporateActionDate> "2016-10-29" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8591112257> <http://account.thomsonreuters.com/2016-10-30/CorporateActionDate> "2016-10-30" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590934012> <http://account.thomsonreuters.com/2016-10-31/CorporateActionDate> "2016-10-31" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475875541> <http://account.thomsonreuters.com/2016-10-18/CorporateActionDate> "2016-10-18" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590928320> <http://account.thomsonreuters.com/2016-10-19/CorporateActionDate> "2016-10-19" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8589980998> <http://account.thomsonreuters.com/2016-10-20/CorporateActionDate> "2016-10-20" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475345635> <http://account.thomsonreuters.com/2016-10-21/CorporateActionDate> "2016-10-21" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475300164> <http://account.thomsonreuters.com/2016-10-22/CorporateActionDate> "2016-10-22" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21475199341> <http://account.thomsonreuters.com/2016-10-23/CorporateActionDate> "2016-10-23" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590011771> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21510346979> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#21563390399> <http://account.thomsonreuters.com/2016-10-15/CorporateActionDate> "2016-10-15" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/CorporateActionType> "Stock Split" .
+<http://sg.thomsonreuters.com/corpaction/#8590937187> <http://account.thomsonreuters.com/2016-10-16/CorporateActionDate> "2016-10-16" .

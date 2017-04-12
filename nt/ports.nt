@@ -1,0 +1,5 @@
+<http://port.tr.com/PortofHamburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/1464971935996_location> .
+<http://port.tr.com/PortofHamburg> <http://www.w3.org/2000/01/rdf-schema#label> "Port of Hamburg" .
+<http://port.tr.com/PortofMedan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.entagen.com/ns/type/1464971935996_location>.
+<http://port.tr.com/PortofMedan> <http://www.w3.org/2000/01/rdf-schema#label> "Port of Medan" .
+<http://port.tr.com/PortofHamburg> <http://port.tr.com/SeaRoute> <http://port.tr.com/PortofMedan>

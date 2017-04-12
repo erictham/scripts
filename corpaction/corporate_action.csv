@@ -1,0 +1,29 @@
+PermID-Link,CorpActionType,Instruments,PermId,Date
+https://permid.org/1-8590932301,Dividend,Apple Ord Shs,8590932301,2016-10-15
+https://permid.org/1-21475210032,Dividend,IBM Share,21475210032,2016-10-15
+https://permid.org/1-21475210032,Dividend,Starhub,8591112257,2016-10-16
+https://permid.org/1-8591112257,Dividend,M1,8590934012,2016-10-17
+https://permid.org/1-8590934012,Dividend,Amazon Ord Shs,21475875541,2016-10-18
+https://permid.org/1-21475875541,Dividend,Amazon BDR,8590928320,2016-10-19
+https://permid.org/1-8590928320,Dividend,Airasia,8589980998,2016-10-20
+https://permid.org/1-8589980998,Dividend,Airasia X,21475345635,2016-10-21
+https://permid.org/1-21475345635,Dividend,DBS Group Hldg Rights,21475300164,2016-10-22
+https://permid.org/1-21475300164,Dividend,DBS Land Ltd Rights,21475199341,2016-10-23
+https://permid.org/1-21475199341,Dividend,Cheung Kong Holdings ADR,8590011771,2016-10-24
+https://permid.org/1-8590011771,Dividend,1Malaysia Development Bhd Ord Shs (Proposed),21510346979,2016-10-25
+https://permid.org/1-21510346979,Dividend,Cheung Kong Property Holdings Ord Shs,21563390399,2016-10-26
+https://permid.org/1-21563390399,Dividend,Cheung Kong Infrastructure Holdings Ord Shs,8590937187,2016-10-27
+https://permid.org/1-8590932301,Stock Split,Apple Ord Shs,8590932301,2016-10-28
+https://permid.org/1-21475210032,Stock Split,IBM Share,21475210032,2016-10-29
+https://permid.org/1-21475210032,Stock Split,Starhub,8591112257,2016-10-30
+https://permid.org/1-8591112257,Stock Split,M1,8590934012,2016-10-31
+https://permid.org/1-8590934012,Stock Split,Amazon Ord Shs,21475875541,2016-10-18
+https://permid.org/1-21475875541,Stock Split,Amazon BDR,8590928320,2016-10-19
+https://permid.org/1-8590928320,Stock Split,Airasia,8589980998,2016-10-20
+https://permid.org/1-8589980998,Stock Split,Airasia X,21475345635,2016-10-21
+https://permid.org/1-21475345635,Stock Split,DBS Group Hldg Rights,21475300164,2016-10-22
+https://permid.org/1-21475300164,Stock Split,DBS Land Ltd Rights,21475199341,2016-10-23
+https://permid.org/1-21475199341,Stock Split,Cheung Kong Holdings ADR,8590011771,2016-10-15
+https://permid.org/1-8590011771,Stock Split,1Malaysia Development Bhd Ord Shs (Proposed),21510346979,2016-10-16
+https://permid.org/1-21510346979,Stock Split,Cheung Kong Property Holdings Ord Shs,21563390399,2016-10-15
+https://permid.org/1-21563390399,Stock Split,Cheung Kong Infrastructure Holdings Ord Shs,8590937187,2016-10-16

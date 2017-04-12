@@ -1,0 +1,17 @@
+# filename: ex126.rq
+
+PREFIX ab: <http://learningsparql.com/ns/addressbook#>
+
+SELECT ?lname ?courseName 
+FROM <examples/ex069.ttl> 
+FROM NAMED <examples/ex125.ttl>
+FROM NAMED <examples/ex122.ttl> # unnecessary
+
+WHERE
+{
+  { ?student ab:lastName ?lname }
+  UNION
+  { GRAPH <examples/ex125.ttl> { ?course ab:courseTitle ?courseName } }
+}
+
+

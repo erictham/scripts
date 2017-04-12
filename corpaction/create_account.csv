@@ -1,0 +1,4 @@
+Account,Acc_Open,Acc_Close,Acc_Type,Acc_Ccy
+ACC_TRDSG_001,2016-01-23,2030-01-01,Client,Multi
+ACC_TRDSG_002,2016-01-24,2030-01-02,Client,Multi
+ACC_TRDSG_003,2015-01-25,2030-01-03,Prop,HKD

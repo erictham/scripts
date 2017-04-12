@@ -1,0 +1,28 @@
+cnbc
+http://www.cnbc.com/id/10000664/device/rss/rss.html # finance
+http://www.cnbc.com/id/15839135/device/rss/rss.html # earnings
+http://www.cnbc.com/id/10001147/device/rss/rss.html # business
+wsj
+http://www.wsj.com/xml/rss/3_7031.xml	# market news
+http://www.wsj.com/xml/rss/3_7014.xml   # us business
+http://www.wsj.com/xml/rss/3_7085.xml   # world business
+http://www.wsj.com/xml/rss/3_7455.xml   # Technology
+cna
+http://www.channelnewsasia.com/rss/latest_cna_biz_rss.xml # business
+http://www.channelnewsasia.com/rss/latest_cna_sgbiz_rss.xml # sg biz
+http://www.channelnewsasia.com/rss/latest_cna_world_rss.xml # world
+http://www.channelnewsasia.com/rss/latest_cna_asiapac_rss.xml # asia pac
+zawya
+http://www.zawya.com/rssfeeds/uae.xml# Zawya UAE
+##http://www.zawya.com/rssfeeds/economy_politics.xml	# Economy and politics
+##http://www.zawya.com/rssfeeds/ipo.xml #IPO
+http://www.zawya.com/rssfeeds/financial_services.xml # financial_services
+scmp
+http://www.scmp.com/rss/2/feed  # HK
+http://www.scmp.com/rss/10/feed  # business
+http://www.scmp.com/rss/318421/feed # china feed
+indiantimes
+http://timesofindia.indiatimes.com/rssfeedstopstories.cms # top stories
+http://timesofindia.indiatimes.com/rssfeeds/1898055.cms # business
+http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms # indiantimes
+http://timesofindia.indiatimes.com/rssfeeds/1221656.cms  # most recent stories
