@@ -62,7 +62,7 @@ if __name__ == "__main__":
     pwd=getcwd()
     fname = pwd+"\\scb_bca.txt"
     output_folder = pwd+"\\nt"
-    url =CALAIS_URL
+    url =SCB_URL
     token=ACCESS_TOKEN
     headers={'X-AG-Access-Token' : token, 'Content-Type' : 'text/raw', 'outputformat' : 'xml/rdf'}
 
